@@ -1,0 +1,141 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: rgb(252, 252, 252);
+}
+body {
+  background-color: rgb(231, 226, 226);
+}
+.container {
+  position: relative;
+  top: 120px;
+  left: -7%;
+  display: flex;
+  justify-content: center;
+  height: 690px;
+  width: 60%;
+  background-color: white;
+}
+
+.container1 {
+  position: absolute;
+  top: 50px;
+  left: 5%;
+  background-color: transparent;
+  width: 115%;
+  height: 590px;
+  border-radius: 20px;
+  border-bottom: solid green 2px;
+ border-top: solid green 2px;
+ border-left: solid green 2px;
+ border-right: solid green 2px;
+}
+
+h1 {
+  position: relative;
+  left: 19%;
+  top:30px;
+  font-size: 1.9rem;
+}
+
+input {
+  position: relative;
+  top: 60px;
+  left: 3%;
+  width: 400px;
+  height: 40px;
+border-bottom: solid rgb(230, 227, 227) 2px;
+ border-top: solid rgb(230, 227, 227) 2px;
+ border-left: solid rgb(230, 227, 227) 2px;
+ border-right: solid rgb(230, 227, 227) 2px;
+}
+
+.input1 {
+  position: relative;
+  top: 90px;
+  width: 400px;
+}
+
+.input2 {
+  position: relative;
+  top: 120px;
+  width: 400px;
+}
+
+.input3 {
+  position: relative;
+  top: 150px;
+  width: 400px;
+}
+
+p {
+  position: relative;
+  top: 90px;
+  left: 20%;
+  font-size: 0.9rem;
+  color: black;
+}
+
+.p1 {
+  position: relative;
+  top: 260px;
+  left: 16%;
+}
+
+button {
+  cursor: pointer;
+  position: relative;
+  top: 220px;
+  left: 3%;
+  width: 400px;
+  height: 50px;
+  font-size: 1.2rem;
+  background-color: rgb(65, 150, 65);
+  border: none;
+  color: white;
+}
+
+button:hover {
+  background-color: green;
+}
+.button1 {
+  cursor: pointer;
+  position: relative;
+  top: 330px;
+  left: -44%;
+  width: 450px;
+  height: 40px;
+  font-size: 1.2rem;
+  background-color: rgb(2, 2, 2);
+  border: none;
+  color: white;
+}
+
+img {
+  position: relative;
+  top: 3px;
+  left: 30px;
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  left: 48%;
+}
+
+label {
+  position: relative;
+  top: 120px;
+  left: 10%;
+}
+
+.checkbox {
+  position: relative;
+  top: 157px;
+  left: -62%;
+  height: 20px;
+
+}
+
